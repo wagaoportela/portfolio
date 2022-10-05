@@ -1,3 +1,5 @@
+-- comentário aqui
+
 USE [Sanitas_Treinamento]
 GO
 /****** Object:  StoredProcedure [dbo].[sp_crud_ssdentcla]    Script Date: 20/09/2022 17:17:34 ******/
