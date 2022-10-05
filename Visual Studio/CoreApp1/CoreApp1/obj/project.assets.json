@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos Locais\\RepositorioGitHub\\portfolio\\Visual Studio\\CoreApp1\\CoreApp1\\CoreApp1.csproj",
+      "projectUniqueName": "D:\\Arquivos Locais\\RepositorioGitHub\\Portfolio2\\Visual Studio\\CoreApp1\\CoreApp1\\CoreApp1.csproj",
       "projectName": "CoreApp1",
-      "projectPath": "D:\\Arquivos Locais\\RepositorioGitHub\\portfolio\\Visual Studio\\CoreApp1\\CoreApp1\\CoreApp1.csproj",
+      "projectPath": "D:\\Arquivos Locais\\RepositorioGitHub\\Portfolio2\\Visual Studio\\CoreApp1\\CoreApp1\\CoreApp1.csproj",
       "packagesPath": "C:\\Users\\m129280\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos Locais\\RepositorioGitHub\\portfolio\\Visual Studio\\CoreApp1\\CoreApp1\\obj\\",
+      "outputPath": "D:\\Arquivos Locais\\RepositorioGitHub\\Portfolio2\\Visual Studio\\CoreApp1\\CoreApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m129280\\AppData\\Roaming\\NuGet\\NuGet.Config",
