@@ -1,0 +1,12 @@
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\refint\StringLibrary.dll
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
+D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
