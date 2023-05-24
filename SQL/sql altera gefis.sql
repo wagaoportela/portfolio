@@ -1,4 +1,4 @@
-﻿-- comentario aqui -- alterado em 2023-05-23 11:50
+﻿-- comentario aqui -- alterado em 2023-05-23 13:53
  
  -- select * from  [srv000085].[sanitas_treinamento].[dbo].[gefis_cadastromovimentosanitasID] order by id desc
  select TOP 5 * from  [srv000085].[sanitas_treinamento].[dbo].[gefis_cadastromovimentosanitas] order by id desc
