@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto1\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
