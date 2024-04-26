@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J/3HRoNYVE6Kf/CXsE3UqviJPjvgv3IImsVlOjtym0zp/Q3AQkiHhjJAM8BP32ve29ERxv208DQdEYr0XdPKqw==",
+  "dgSpecHash": "EJshUfF0aGp7+coGszrw3RLYh6fT5lRjIyYyqGJ+EegQpfMPjWMdnBeHGomvqog5oVkEQiRBTwI3U4KEqklkcA==",
   "success": true,
-  "projectFilePath": "D:\\Arquivos Locais\\RepositorioGitHub\\Portfolio2\\Visual Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "\\\\vmware-host\\Shared Folders\\D\\wagner\\Desenvolvimento\\GitHubWpassis@yahoo.com.br\\Visual Studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wpass\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\wpass\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\wpass\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\wpass\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

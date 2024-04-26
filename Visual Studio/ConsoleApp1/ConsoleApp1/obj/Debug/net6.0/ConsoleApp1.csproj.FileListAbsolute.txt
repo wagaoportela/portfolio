@@ -13,3 +13,33 @@ D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ConsoleApp1\Consol
 D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 D:\Arquivos Locais\RepositorioGitHub\Portfolio2\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+W:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+\\vmware-host\Shared Folders\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
