@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\refint\NotasAlunos.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\NotasAlunos\obj\Debug\net8.0\ref\NotasAlunos.dll
