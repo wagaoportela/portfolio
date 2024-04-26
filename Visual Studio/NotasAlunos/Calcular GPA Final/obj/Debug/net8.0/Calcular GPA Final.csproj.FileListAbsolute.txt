@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\bin\Debug\net8.0\Calcular GPA Final.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\bin\Debug\net8.0\Calcular GPA Final.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\bin\Debug\net8.0\Calcular GPA Final.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\bin\Debug\net8.0\Calcular GPA Final.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\bin\Debug\net8.0\Calcular GPA Final.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\refint\Calcular GPA Final.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\Calcular GPA Final.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\NotasAlunos\Calcular GPA Final\obj\Debug\net8.0\ref\Calcular GPA Final.dll

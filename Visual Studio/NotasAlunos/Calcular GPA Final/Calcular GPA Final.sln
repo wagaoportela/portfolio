@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular GPA Final", "Calcular GPA Final.csproj", "{A83B8C9B-39F5-48E6-ABB6-2328B68CEDFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83B8C9B-39F5-48E6-ABB6-2328B68CEDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83B8C9B-39F5-48E6-ABB6-2328B68CEDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83B8C9B-39F5-48E6-ABB6-2328B68CEDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83B8C9B-39F5-48E6-ABB6-2328B68CEDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C875FAC-DB33-48A3-9BEF-07A4F0FFC1DB}
+	EndGlobalSection
+EndGlobal
