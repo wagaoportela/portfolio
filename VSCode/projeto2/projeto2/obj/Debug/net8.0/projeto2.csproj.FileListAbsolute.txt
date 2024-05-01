@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\bin\Debug\net8.0\projeto2.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\bin\Debug\net8.0\projeto2.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\bin\Debug\net8.0\projeto2.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\bin\Debug\net8.0\projeto2.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\bin\Debug\net8.0\projeto2.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\refint\projeto2.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\projeto2.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\VSCode\projeto2\projeto2\obj\Debug\net8.0\ref\projeto2.dll

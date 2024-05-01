@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\bin\Debug\net8.0\TelaSom.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\bin\Debug\net8.0\TelaSom.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\bin\Debug\net8.0\TelaSom.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\bin\Debug\net8.0\TelaSom.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\bin\Debug\net8.0\TelaSom.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\refint\TelaSom.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\TelaSom.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\TelaSom\obj\Debug\net8.0\ref\TelaSom.dll

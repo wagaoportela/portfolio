@@ -1,0 +1,15 @@
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\bin\Debug\net8.0\jogo.exe
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\bin\Debug\net8.0\jogo.deps.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\bin\Debug\net8.0\jogo.runtimeconfig.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\bin\Debug\net8.0\jogo.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\bin\Debug\net8.0\jogo.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.AssemblyInfoInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.AssemblyInfo.cs
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.csproj.CoreCompileInputs.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.sourcelink.json
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\refint\jogo.dll
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.pdb
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\jogo.genruntimeconfig.cache
+Z:\D\wagner\Desenvolvimento\GitHubWpassis@yahoo.com.br\Visual Studio\jogo\obj\Debug\net8.0\ref\jogo.dll
