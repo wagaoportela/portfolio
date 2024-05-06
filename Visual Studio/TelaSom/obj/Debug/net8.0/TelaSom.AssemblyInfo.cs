@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelaSom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+302e6d3ae8b241334914afa348b49dc2798e14f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22e7fb52e9854c3b127f4db8a5cc85eaa92f505")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelaSom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelaSom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
